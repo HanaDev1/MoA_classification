@@ -9,7 +9,7 @@ behind it and/or decreases symptoms while a person is taking
 medications to cure a disease. The mechanism of a drug is often known and some do not understand the mechanism of action.
 
 
-![(cAMP) signaling pathway](https://github.com/HanaDev1/MoA_classification/blob/origin/image.jpg?raw=true)
+![(cAMP) signaling pathway](https://github.com/HanaDev1/MoA_classification/blob/origin/moap.jpg?raw=true)
 
 This paper intends to predict and classification multiple response
 targets of the Mechanism of Action (MoA) of various samples.
