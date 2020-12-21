@@ -1,4 +1,4 @@
-#Mechanism of Action (MoA) 
+# Mechanism of Action (MoA) 
 Mechanism of Action (MoA)of drug prediction using classification algorithms
 The term ’mechanism of action’ is a common term utilized for pharmacology when talking about medicines and
 drugs. It relates to how the molecular functioning or acts of the drug in the body. Also utilized to describe the more general
