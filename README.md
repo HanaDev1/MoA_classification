@@ -24,3 +24,13 @@ This code is a part of a research paper done by:
 
 The dataset available on the Kaggle website
 [data link](https://www.kaggle.com/c/lish-moa)
+
+### Table of content:
+* First experince: First_experince.ipynb
+The first experment with the results
+Two multi-label techniques have been used which are Chain classifier and Binary relevance with the classification models: 
+- SVM 
+- KNN
+- DT
+- RF
+ 
