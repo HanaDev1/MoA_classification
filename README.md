@@ -17,6 +17,8 @@ Samples are medications that are profiled at various time points
 and doses, using various machine learning algorithms in addition
 to compare the accuracy of them. 
 
+
+
 This code is a part of a research paper done by:
 * --
 * --
@@ -33,4 +35,9 @@ Two multi-label techniques have been used which are Chain classifier and Binary 
 - KNN
 - DT
 - RF
+2. Second Experiment
+imbalnced.ipynb - The second experiment with the results
+the same multi-labe techniques have been used and the classification models with: 
+- RandomUnderSampler
+- RandomOverSampler
  
