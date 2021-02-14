@@ -19,8 +19,8 @@ to compare the accuracy of them.
 
 This code is a part of a research paper 
 
-The dataset available on the Kaggle website
-[data link](https://www.kaggle.com/c/lish-moa)
+The dataset available on Kaggle website
+[The dataset link](https://www.kaggle.com/c/lish-moa)
 
 ### Table of content:
 1. First Experiment:
