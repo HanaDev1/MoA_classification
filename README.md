@@ -17,12 +17,7 @@ Samples are medications that are profiled at various time points
 and doses, using various machine learning algorithms in addition
 to compare the accuracy of them. 
 
-
-
-This code is a part of a research paper done by:
-* --
-* --
-* --
+This code is a part of a research paper 
 
 The dataset available on the Kaggle website
 [data link](https://www.kaggle.com/c/lish-moa)
